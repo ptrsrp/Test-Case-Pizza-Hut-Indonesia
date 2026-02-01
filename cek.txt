@@ -1,4 +1,2 @@
 Tambah Text
-
-git config user.name "Nama Dia"
-git config user.email "email-dia@example.com"
+Coba push lagi
